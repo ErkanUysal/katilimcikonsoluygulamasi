@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\obj\Debug\katilimciliste1.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\obj\Debug\katilimciliste1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\obj\Debug\katilimciliste1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\bin\Debug\katilimciliste1.exe.config
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\bin\Debug\katilimciliste1.exe
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\bin\Debug\katilimciliste1.pdb
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\obj\Debug\katilimciliste1.exe
+C:\Users\Monster\source\repos\katilimciliste1\katilimciliste1\obj\Debug\katilimciliste1.pdb
